@@ -30,7 +30,7 @@
                 android:scaleType="fitXY"
                 android:src="@color/black"
                 app:urlToImage="@{meal.image}"
-                tools:src="@android:drawable/ic_secure" />
+                tools:src="@drawable/placeholder" />
 
 
             <TextView
@@ -40,7 +40,7 @@
                 android:layout_height="wrap_content"
                 android:padding="8dp"
                 android:text="@{meal.name}"
-                tools:text="Chicken" />
+                tools:text="ItemName" />
 
 
         </androidx.appcompat.widget.LinearLayoutCompat>

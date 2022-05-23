@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_learning_flowapi_concept.xml" value="0.213768115942029" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.14361702127659576" />
         <entry key="app/src/main/res/layout/fragment_meal_details.xml" value="0.14361702127659576" />
         <entry key="app/src/main/res/layout/fragment_meal_search.xml" value="0.14361702127659576" />
